@@ -22,7 +22,7 @@ Long term I'm heading toward DevOps and SRE, with security research on the side.
 ### Currently
 
 ```text
-learning   CCNA: Introduction to Networks, Linux, data structures
+learning   CCNA: Introduction to Networks, Linux, data structures and algorithms
 building   home lab setup, my Neovim config (moving it to Lua)
 studying   IT @ UW Tacoma, class of 2028
 ```
