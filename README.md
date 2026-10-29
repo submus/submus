@@ -24,7 +24,7 @@ Long term I'm heading toward DevOps and SRE, with security research on the side.
 ```text
 learning   CCNA: Introduction to Networks, Linux, data structures and algorithms
 building   home lab setup, my Neovim config (moving it to Lua)
-studying   IT @ UW Tacoma, class of 2028
+studying   IT @ UW Tacoma
 ```
 
 ### Tools I use
@@ -35,6 +35,7 @@ studying   IT @ UW Tacoma, class of 2028
 ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-333333?style=flat-square&logo=cisco&logoColor=white)
+![Oh My Zsh](https://img.shields.io/badge/Oh%20My%20Zsh-333333?style=flat-square&logo=ohmyzsh&logoColor=white)
 
 ### Stats
 
