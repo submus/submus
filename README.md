@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm submus 👋
 
-<!--
-**submus/submus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub.
 
-Here are some ideas to get you started:
+I use this space for projects, experiments, and things I'm learning along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Washington
+
+## What you'll find here
+
+- Projects and prototypes
+- Technical experiments
+- Notes and useful ideas
+
+Feel free to explore.
