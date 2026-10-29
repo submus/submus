@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm submus 👋
+# Hey, I'm Omar 👋
 
 ### IT&S student at the University of Washington Tacoma
 
