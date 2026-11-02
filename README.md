@@ -25,8 +25,10 @@ Long term I'm heading toward DevOps and SRE, with security research on the side.
 learning   CCNA: Introduction to Networks, Linux, data structures & algorithms, AWS
 building   home lab setup, my Neovim config (moving it to Lua)
 studying   IT @ UW Tacoma
-TODO Projects: Network Information [netinfo](https://github.com/submus/netinfo "Python network info tool")
 ```
+
+### TODO Projects:
+[netinfo](https://github.com/submus/netinfo "Python network info tool")
 
 ### Tools I use
 
@@ -37,7 +39,6 @@ TODO Projects: Network Information [netinfo](https://github.com/submus/netinfo "
 ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-333333?style=flat-square&logo=cisco&logoColor=white)
 ![Oh My Zsh](https://img.shields.io/badge/Oh%20My%20Zsh-333333?style=flat-square&logo=ohmyzsh&logoColor=white)
-[![netinfo](https://github-readme-stats.vercel.app/api/pin/?username=submus&repo=netinfo)](https://github.com/submus/netinfo)
 
 ### Stats
 
