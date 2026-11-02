@@ -25,7 +25,7 @@ Long term I'm heading toward DevOps and SRE, with security research on the side.
 learning   CCNA: Introduction to Networks, Linux, data structures & algorithms, AWS
 building   home lab setup, my Neovim config (moving it to Lua)
 studying   IT @ UW Tacoma
-TODO Projects: Network Information ![netinfo](https://github.com/submus/netinfo)
+TODO Projects: Network Information [netinfo](https://github.com/submus/netinfo)
 ```
 
 ### Tools I use
