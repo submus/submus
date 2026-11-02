@@ -22,9 +22,10 @@ Long term I'm heading toward DevOps and SRE, with security research on the side.
 ### Currently
 
 ```text
-learning   CCNA: Introduction to Networks, Linux, data structures and algorithms
+learning   CCNA: Introduction to Networks, Linux, data structures & algorithms, AWS
 building   home lab setup, my Neovim config (moving it to Lua)
 studying   IT @ UW Tacoma
+TODO Projects: Network Information (netinfo)
 ```
 
 ### Tools I use
