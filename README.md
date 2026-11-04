@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey, I'm Omar
+## Hi, I'm Omar
 
 IT student at UW Tacoma · Information Assurance & Cybersecurity
 
@@ -26,7 +26,7 @@ learning   CCNA: Introduction to Networks, Linux, data structures & algorithms, 
 building   home lab setup, my Neovim config (moving it to Lua)
 studying   IT @ UW Tacoma
 ```
-### TODO Projects:
+### Working On:
 [netinfo](https://github.com/submus/netinfo "Python network info tool")
 
 ### Tools I use
