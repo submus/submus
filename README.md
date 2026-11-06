@@ -27,7 +27,7 @@ building   home lab setup, my Neovim config (moving it to Lua)
 studying   IT @ UW Tacoma
 ```
 ### Working On:
-[netinfo](https://github.com/submus/netinfo "Python network info tool")
+[netinfo](https://github.com/submus/netinfo "Python network info tool"), goarp
 
 ### Tools I use
 
