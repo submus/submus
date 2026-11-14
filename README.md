@@ -15,16 +15,15 @@ IT student at UW Tacoma · Information Assurance & Cybersecurity
 
 ### About
 
-I'm into networking, infrastructure, and security. Right now that looks like working through Cisco's CCNA track, tinkering with my home lab, and living in the terminal more than I probably should.
+I am currently working through Cisco's CCNA, running a small home lab, and building tools I actually use, like `netinfo`, a Python script that pulls my network info in one command.
 
-Long term I'm heading toward DevOps and SRE, with security research on the side.
+I'm aiming for DevOps and SRE, with security research on the side.
 
 ### Currently
 
 ```text
 learning   CCNA: Introduction to Networks, Linux, data structures & algorithms, AWS
 building   home lab setup, my Neovim config (moving it to Lua)
-studying   IT @ UW Tacoma
 ```
 ### Working On:
 [netinfo](https://github.com/submus/netinfo "Python network info tool"), goarp
