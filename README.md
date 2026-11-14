@@ -25,7 +25,7 @@ I'm aiming for DevOps and SRE, with security research on the side.
 learning   CCNA: Introduction to Networks, Linux, data structures & algorithms, AWS
 building   home lab setup, my Neovim config (moving it to Lua)
 ```
-### Working On:
+### Working On
 [netinfo](https://github.com/submus/netinfo "Python network info tool"), goarp
 
 ### Tools I use
